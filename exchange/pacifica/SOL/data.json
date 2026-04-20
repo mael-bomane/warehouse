@@ -61766,5 +61766,13 @@
     "funding_rate": "-0.00000865",
     "next_funding_rate": "-0.00000136",
     "created_at": 1776711604647
+  },
+  {
+    "oracle_price": "85.79572",
+    "bid_impact_price": "85.74",
+    "ask_impact_price": "85.75",
+    "funding_rate": "-0.00000136",
+    "next_funding_rate": "-0.00000811",
+    "created_at": 1776715204646
   }
 ]
