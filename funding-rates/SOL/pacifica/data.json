@@ -62118,5 +62118,29 @@
     "funding_rate": "-0.00001465",
     "next_funding_rate": "-0.00002318",
     "created_at": 1776870001036
+  },
+  {
+    "oracle_price": "88.18857",
+    "bid_impact_price": "88.143044",
+    "ask_impact_price": "88.17",
+    "funding_rate": "-0.00002318",
+    "next_funding_rate": "-0.00003061",
+    "created_at": 1776873601035
+  },
+  {
+    "oracle_price": "87.656106",
+    "bid_impact_price": "87.59",
+    "ask_impact_price": "87.6",
+    "funding_rate": "-0.00003061",
+    "next_funding_rate": "-0.00002434",
+    "created_at": 1776877201036
+  },
+  {
+    "oracle_price": "87.837102",
+    "bid_impact_price": "87.78",
+    "ask_impact_price": "87.79",
+    "funding_rate": "-0.00002434",
+    "next_funding_rate": "-0.0000221",
+    "created_at": 1776880801036
   }
 ]
