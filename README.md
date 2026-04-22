@@ -1,8 +1,8 @@
 # warehouse
 
-Historical data from genesis up to now of some Solana DeFi protocols : perp funding rates, lending reserves, vault strategies.
+historical data from genesis up to now of some Solana DeFi protocols : perp funding rates, lending reserves, vault strategies.
 
-## Layout
+## layout
 
 ```
 funding-rates/      perp funding rate history
@@ -20,16 +20,9 @@ strategies/         vault/strategy performance history
     msol/data.{json,csv}
 ```
 
-## Conventions
+## conventions
 
-- One dataset per leaf dir. `data.json` canonical, `data.csv` mirror.
-- Path = `<domain>/<asset>/<protocol>/<version?>/data.*`.
-- Timestamps vary by source (unix sec, unix ms, ISO-8601) — check per-file.
-- Append-only snapshots. Commits timestamped (see `git log`).
-
-## Adding data
-
-1. Pick domain dir (`funding-rates` / `lending` / `strategies`).
-2. Create `<asset>/<protocol>/` leaf (add `<version>/` if protocol versioned).
-3. Drop `data.json` (+ optional `data.csv`).
-4. Commit with timestamp.
+- one dataset per leaf dir. `data.json` canonical, `data.csv` mirror.
+- path = `<domain>/<asset>/<protocol>/<version?>/data.*`.
+- timestamps vary by source (unix sec, unix ms, ISO-8601) — check per-file.
+- append-only snapshots. commits timestamped (see `git log`).
