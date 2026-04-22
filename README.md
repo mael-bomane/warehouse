@@ -14,6 +14,10 @@ funding-rates/      perp funding rate history
 lending/            lending protocol reserve history
   kamino/sol/data.{json,csv}
 
+lst/                liquid staking token APY history
+  jito/data.{json,csv}
+  marinade/data.{json,csv}
+
 strategies/         vault/strategy performance history
   kamino/
     jitosol/data.{json,csv}
