@@ -203810,6 +203810,236 @@
     "stakingYieldB": null
   },
   {
+    "vault": "orca",
+    "date": "2026-06-11T00:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T01:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T02:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T03:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T04:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T05:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T07:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T08:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T09:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T10:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T11:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T12:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T13:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T14:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T15:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T16:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T17:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T18:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T19:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T20:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T21:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T22:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "orca",
+    "date": "2026-06-11T23:00:00.000Z",
+    "apy24h": "0",
+    "volume24hUsd": "0",
+    "feesAndRewards24hUsd": "0",
+    "cumulativeFeesAndRewardsUsd": "8605.8005757982459781",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
     "vault": "raydium",
     "date": "2023-02-23T00:00:00.000Z",
     "apy24h": "0.12521255199767088500366108851020181112",
@@ -473606,6 +473836,236 @@
     "volume24hUsd": "268886.8927028451",
     "feesAndRewards24hUsd": "24.3342637896",
     "cumulativeFeesAndRewardsUsd": "451634.00232203382308",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T00:00:00.000Z",
+    "apy24h": "0.0139603945322390911",
+    "volume24hUsd": "265291.4630784983",
+    "feesAndRewards24hUsd": "24.0088774086",
+    "cumulativeFeesAndRewardsUsd": "451656.24850204645941",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T01:00:00.000Z",
+    "apy24h": "0.0139603945322390911",
+    "volume24hUsd": "265291.4630784984",
+    "feesAndRewards24hUsd": "24.0088774086",
+    "cumulativeFeesAndRewardsUsd": "451656.24850204645941",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T02:00:00.000Z",
+    "apy24h": "0.0139603945322390911",
+    "volume24hUsd": "265291.4630784984",
+    "feesAndRewards24hUsd": "24.0088774086",
+    "cumulativeFeesAndRewardsUsd": "451656.24850204645941",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T03:00:00.000Z",
+    "apy24h": "0.0139603945322390911",
+    "volume24hUsd": "265291.4630784984",
+    "feesAndRewards24hUsd": "24.0088774086",
+    "cumulativeFeesAndRewardsUsd": "451656.24850204645941",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T04:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T05:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T07:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T08:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T09:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T10:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T11:00:00.000Z",
+    "apy24h": "0.015202599241474006",
+    "volume24hUsd": "288848.1175803919",
+    "feesAndRewards24hUsd": "26.140754641",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T12:00:00.000Z",
+    "apy24h": "0.0144454921698735846",
+    "volume24hUsd": "274794.7513861421",
+    "feesAndRewards24hUsd": "24.8689250005",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T13:00:00.000Z",
+    "apy24h": "0.0228298134162728174",
+    "volume24hUsd": "434218.6997747171",
+    "feesAndRewards24hUsd": "39.2967923296",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T14:00:00.000Z",
+    "apy24h": "0.0228298134162728174",
+    "volume24hUsd": "434218.6997747171",
+    "feesAndRewards24hUsd": "39.2967923296",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T15:00:00.000Z",
+    "apy24h": "0.0228298134162728174",
+    "volume24hUsd": "434218.6997747171",
+    "feesAndRewards24hUsd": "39.2967923296",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T16:00:00.000Z",
+    "apy24h": "0.0228298134162728174",
+    "volume24hUsd": "434218.6997747171",
+    "feesAndRewards24hUsd": "39.2967923296",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T17:00:00.000Z",
+    "apy24h": "0.0228298134162728174",
+    "volume24hUsd": "434218.6997747171",
+    "feesAndRewards24hUsd": "39.2967923296",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T18:00:00.000Z",
+    "apy24h": "0.0123798447256939512",
+    "volume24hUsd": "236834.4906622035",
+    "feesAndRewards24hUsd": "21.4335214049",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T19:00:00.000Z",
+    "apy24h": "0.0123798447256939512",
+    "volume24hUsd": "236834.4906622035",
+    "feesAndRewards24hUsd": "21.4335214049",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T20:00:00.000Z",
+    "apy24h": "0.0123798447256939512",
+    "volume24hUsd": "236834.4906622035",
+    "feesAndRewards24hUsd": "21.4335214049",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T21:00:00.000Z",
+    "apy24h": "0.0095005030183160871",
+    "volume24hUsd": "182980.6028904686",
+    "feesAndRewards24hUsd": "16.5597445616",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T22:00:00.000Z",
+    "apy24h": "0.0111851232863319536",
+    "volume24hUsd": "216122.5088023596",
+    "feesAndRewards24hUsd": "19.5590870466",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
+    "stakingYieldA": null,
+    "stakingYieldB": null
+  },
+  {
+    "vault": "raydium",
+    "date": "2026-06-11T23:00:00.000Z",
+    "apy24h": "0.0111851232863319536",
+    "volume24hUsd": "216122.5088023596",
+    "feesAndRewards24hUsd": "19.5590870466",
+    "cumulativeFeesAndRewardsUsd": "451658.38037927889083",
     "stakingYieldA": null,
     "stakingYieldB": null
   }
